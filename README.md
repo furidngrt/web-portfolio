@@ -1,3 +1,3 @@
 # web-portfolio-simple
 
-demo jim.geovedi.com
+demo furidngrt.github.io
